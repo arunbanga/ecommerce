@@ -1,0 +1,43 @@
+$font-color-white: white;
+
+.font-color {
+  color: $font-color-white !important;
+}
+
+.product-cart-animation-rotate--appear {
+  transform: rotateX(90deg);
+}
+
+.product-cart-animation-rotate--appear-active {
+  transform: rotateX(0deg);
+  transition: transform 1s;
+}
+
+.product-cart-animation-rotate--appear-done {
+  opacity: 1;
+}
+
+.product-cart-animation-rotate--enter {
+  transform: rotateX(90deg);
+}
+
+.product-cart-animation-rotate--enter-active {
+  transform: rotateX(0deg);
+  transition: transform 1s;
+}
+
+.product-cart-animation-rotate--enter-done {
+  opacity: 1;
+}
+
+.product-cart-animation-rotate--exit {
+  transform: rotateX(0deg);
+}
+
+.product-cart-animation-rotate--exit-active {
+  transform: rotateX(90deg);
+  transition: transform 500ms;
+}
+
+.product-cart-animation-rotate--exit-done {
+}

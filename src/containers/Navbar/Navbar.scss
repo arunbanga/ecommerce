@@ -1,0 +1,24 @@
+.navbar-sticky {
+  position: sticky;
+  top: 0px;
+  z-index: 100;
+}
+
+.custom-badge {
+  position: absolute;
+  text-align: center;
+  padding: 4px;
+  line-height: 1;
+  font-size: 14px;
+  z-index: 2;
+  font-weight: 600;
+  background-color: #f33535 !important;
+}
+
+.cbdg1 {
+  width: 26px;
+  height: 26px;
+  top: 12px;
+  left: 22px;
+  // border-radius: 50%;
+}

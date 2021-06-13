@@ -1,0 +1,8 @@
+main {
+  min-height: 400px;
+}
+
+.customToast {
+  background-color: aqua;
+  width: 300px;
+}

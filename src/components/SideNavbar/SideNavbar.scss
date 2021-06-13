@@ -1,0 +1,75 @@
+$black-color: black;
+$white-color: white;
+
+.navigation {
+  background-color: black;
+  width: 60px;
+  transition: 0.5s;
+  z-index: 999;
+  overflow: hidden;
+  top: 0;
+}
+
+@media screen and (min-width: 1024px) {
+  .navigation:hover,
+  .nav_active {
+    width: 200px;
+    z-index: 999;
+  }
+}
+
+.icon {
+  min-width: 60px;
+  color: $white-color;
+}
+
+a {
+  color: $white-color;
+}
+
+li:hover {
+  background-color: snow !important;
+  .icon {
+    min-width: 60px;
+    color: $black-color;
+  }
+  a {
+    color: $black-color;
+  }
+}
+
+.toggle {
+  z-index: 9999;
+  top: 0;
+  right: 0px;
+  width: 60px;
+  height: 60px;
+  background-color: $white-color;
+  cursor: pointer;
+}
+
+.toggle:hover {
+  background-color: $white-color;
+  .icon {
+    color: $black-color;
+  }
+}
+
+.toggle:before {
+  height: 100px;
+  width: 100px;
+}
+
+@media screen and (max-width: 768px) {
+  .navigation {
+    width: 0%;
+  }
+  .active {
+    left: 0px;
+    width: 100%;
+  }
+  .nav_active {
+    width: 200px;
+    z-index: 999;
+  }
+}

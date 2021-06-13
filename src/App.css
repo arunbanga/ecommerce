@@ -1,0 +1,13 @@
+body {
+  position: relative;
+  min-height: 100vh;
+  padding-bottom: 390px;
+}
+
+@media screen and (min-width: 300px) and (max-width: 500px) {
+  body {
+    position: relative;
+    min-height: 100vh;
+    padding-bottom: 690px;
+  }
+}

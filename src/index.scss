@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Andika+New+Basic&display=swap");
+
+* {
+  font-family: "Andika New Basic", sans-serif;
+}
+
+$primary-color: #f8f9fa;
+$secondary-color: #f33535;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.primary-color {
+  background-color: $primary-color !important;
+}
+
+.secondary-color {
+  background-color: $secondary-color !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.navbar a {
+  color: black !important;
+  text-transform: capitalize;
+}
+
+.navbar a:hover {
+  color: black !important;
+}
+
+.menu_active {
+  border-bottom: 3px solid $secondary-color;
+  color: black !important;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}

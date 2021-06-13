@@ -1,0 +1,19 @@
+.banner-thumb img {
+  width: 100%;
+}
+
+img {
+  max-width: 100%;
+}
+
+.mb-30 {
+  margin-bottom: 30px;
+}
+
+.space-evenly {
+  justify-content: space-evenly;
+}
+
+.space-between {
+  justify-content: space-between;
+}

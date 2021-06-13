@@ -1,0 +1,8 @@
+export const ADD_ITEM_TO_CART = "ADD_ITEM_TO_CART";
+export const REMOVE_ITEM_FROM_CART = "REMOVE_ITEM_FROM_CART";
+export const FETCH_ITEMS_FROM_CART = "FETCH_ITEMS_FROM_CART";
+export const API_ERROR = "API_ERROR";
+export const TOTAL_PRICE = "TOTAL_PRICE";
+export const UPDATE_CART = "UPDATE_CART";
+export const START_TIMER = "START_TIMER";
+export const STOP_TIMER = "STOP_TIMER";

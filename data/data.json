@@ -1,0 +1,369 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "productName": "Adidas",
+      "productImage": "https://htmldemo.hasthemes.com/junno-preview/junno/assets/img/slider/thumb/1.jpg",
+      "price": 100,
+      "discount": "10%",
+      "type": "new"
+    },
+    {
+      "id": 2,
+      "productName": "Nike",
+      "productImage": "https://htmldemo.hasthemes.com/junno-preview/junno/assets/img/slider/thumb/2.jpg",
+      "price": 200
+    },
+    {
+      "id": 3,
+      "productName": "Puma",
+      "productImage": "https://htmldemo.hasthemes.com/junno-preview/junno/assets/img/slider/thumb/3.jpg",
+      "price": 123,
+      "discount": "4%",
+      "type": "new"
+    },
+    {
+      "id": 4,
+      "productName": "Reebok",
+      "productImage": "https://htmldemo.hasthemes.com/junno-preview/junno/assets/img/slider/thumb/4.jpg",
+      "price": 160,
+      "discount": "2%",
+      "type": "new"
+    },
+    {
+      "id": 5,
+      "productName": "Asics",
+      "productImage": "https://htmldemo.hasthemes.com/junno-preview/junno/assets/img/slider/thumb/5.jpg",
+      "price": 300,
+      "discount": "30%",
+      "type": "new"
+    },
+    {
+      "id": 6,
+      "productName": "Bata",
+      "productImage": "https://htmldemo.hasthemes.com/junno-preview/junno/assets/img/slider/thumb/1.jpg",
+      "price": 200,
+      "discount": "10%",
+      "type": "new"
+    }
+  ],
+  "trousers": [
+    {
+      "id": 1,
+      "productName": "Allen Solly",
+      "productImage": "https://allensolly.imgix.net/img/app/product/2/269875-1077373.jpg",
+      "price": 3200,
+      "discount": "10%",
+      "type": "new"
+    },
+    {
+      "id": 2,
+      "productName": "U.S Polo",
+      "productImage": "https://assets.ajio.com/medias/sys_master/root/h6c/heb/12913261084702/-1117Wx1400H-460235170-grey-MODEL.jpg",
+      "price": 3200
+    },
+    {
+      "id": 3,
+      "productName": "Raymond",
+      "productImage": "https://allensolly.imgix.net/img/app/product/2/269875-1077373.jpg",
+      "price": 123,
+      "discount": "4%",
+      "type": "new"
+    },
+    {
+      "id": 4,
+      "productName": "Allen Solly",
+      "productImage": "https://allensolly.imgix.net/img/app/product/2/269875-1077373.jpg",
+      "price": 3200,
+      "discount": "10%",
+      "type": "new"
+    },
+    {
+      "id": 5,
+      "productName": "U.S Polo",
+      "productImage": "https://assets.ajio.com/medias/sys_master/root/h6c/heb/12913261084702/-1117Wx1400H-460235170-grey-MODEL.jpg",
+      "price": 3200
+    },
+    {
+      "id": 6,
+      "productName": "Raymond",
+      "productImage": "https://allensolly.imgix.net/img/app/product/2/269875-1077373.jpg",
+      "price": 123,
+      "discount": "4%",
+      "type": "new"
+    },
+    {
+      "id": 7,
+      "productName": "Allen Solly",
+      "productImage": "https://allensolly.imgix.net/img/app/product/2/269875-1077373.jpg",
+      "price": 3200,
+      "discount": "10%",
+      "type": "new"
+    },
+    {
+      "id": 8,
+      "productName": "U.S Polo",
+      "productImage": "https://assets.ajio.com/medias/sys_master/root/h6c/heb/12913261084702/-1117Wx1400H-460235170-grey-MODEL.jpg",
+      "price": 3200
+    },
+    {
+      "id": 9,
+      "productName": "Raymond",
+      "productImage": "https://allensolly.imgix.net/img/app/product/2/269875-1077373.jpg",
+      "price": 123,
+      "discount": "4%",
+      "type": "new"
+    }
+  ],
+  "shirts": [
+    {
+      "id": 1,
+      "productName": "Allen Solly",
+      "productImage": "https://images.bewakoof.com/t320/camo-poplin-print-shirt-men-s-slim-fit-poplin-shirts-298442-1614141044.jpg",
+      "price": 3200,
+      "discount": "10%",
+      "type": "new"
+    },
+    {
+      "id": 2,
+      "productName": "U.S Polo",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/I/71Z0-5X4BdL._UY550_.jpg",
+      "price": 3200
+    },
+    {
+      "id": 3,
+      "productName": "Raymond",
+      "productImage": "https://pantaloons.imgix.net/img/app/product/5/544072-4373061.jpg?w=316.9230769230769&auto=format",
+      "price": 1243,
+      "discount": "4%",
+      "type": "new"
+    },
+    {
+      "id": 4,
+      "productName": "Allen Solly",
+      "productImage": "https://images.bewakoof.com/t320/camo-poplin-print-shirt-men-s-slim-fit-poplin-shirts-298442-1614141044.jpg",
+      "price": 3200,
+      "discount": "10%",
+      "type": "new"
+    },
+    {
+      "id": 5,
+      "productName": "U.S Polo",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/I/71Z0-5X4BdL._UY550_.jpg",
+      "price": 3200
+    },
+    {
+      "id": 6,
+      "productName": "Raymond",
+      "productImage": "https://pantaloons.imgix.net/img/app/product/5/544072-4373061.jpg?w=316.9230769230769&auto=format",
+      "price": 1243,
+      "discount": "4%",
+      "type": "new"
+    },
+    {
+      "id": 7,
+      "productName": "Allen Solly",
+      "productImage": "https://images.bewakoof.com/t320/camo-poplin-print-shirt-men-s-slim-fit-poplin-shirts-298442-1614141044.jpg",
+      "price": 3200,
+      "discount": "10%",
+      "type": "new"
+    },
+    {
+      "id": 8,
+      "productName": "U.S Polo",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/I/71Z0-5X4BdL._UY550_.jpg",
+      "price": 3200
+    },
+    {
+      "id": 9,
+      "productName": "Raymond",
+      "productImage": "https://pantaloons.imgix.net/img/app/product/5/544072-4373061.jpg?w=316.9230769230769&auto=format",
+      "price": 1243,
+      "discount": "4%",
+      "type": "new"
+    }
+  ],
+  "socks": [
+    {
+      "id": 1,
+      "productName": "Adidas",
+      "productImage": "https://assets.ajio.com/medias/sys_master/root/hdb/h20/17081209815070/adidas_assorted_pack_of_3_textured_socks_with_logo_print.jpg",
+      "price": 3200,
+      "discount": "10%",
+      "type": "new"
+    },
+    {
+      "id": 2,
+      "productName": "Puma",
+      "productImage": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/656536/01/fnd/IND/fmt/png/ftblNXT-Team-Men's-Football-Socks",
+      "price": 3200
+    },
+    {
+      "id": 3,
+      "productName": "HRX",
+      "productImage": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/976817/2018/10/4/4db844a2-89c9-46a4-9ccf-c2b8db3306fb1538652963787-HRX-by-Hrithik-Roshan-Active-Men-Set-of-3-Ankle-Length-Socks-1.jpg",
+      "price": 1243,
+      "discount": "4%",
+      "type": "new"
+    },
+    {
+      "id": 4,
+      "productName": "Adidas",
+      "productImage": "https://assets.ajio.com/medias/sys_master/root/hdb/h20/17081209815070/adidas_assorted_pack_of_3_textured_socks_with_logo_print.jpg",
+      "price": 3200,
+      "discount": "10%",
+      "type": "new"
+    },
+    {
+      "id": 5,
+      "productName": "Puma",
+      "productImage": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/656536/01/fnd/IND/fmt/png/ftblNXT-Team-Men's-Football-Socks",
+      "price": 3200
+    },
+    {
+      "id": 6,
+      "productName": "HRX",
+      "productImage": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/976817/2018/10/4/4db844a2-89c9-46a4-9ccf-c2b8db3306fb1538652963787-HRX-by-Hrithik-Roshan-Active-Men-Set-of-3-Ankle-Length-Socks-1.jpg",
+      "price": 1243,
+      "discount": "4%",
+      "type": "new"
+    },
+    {
+      "id": 7,
+      "productName": "Adidas",
+      "productImage": "https://assets.ajio.com/medias/sys_master/root/hdb/h20/17081209815070/adidas_assorted_pack_of_3_textured_socks_with_logo_print.jpg",
+      "price": 3200,
+      "discount": "10%",
+      "type": "new"
+    },
+    {
+      "id": 8,
+      "productName": "Puma",
+      "productImage": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/656536/01/fnd/IND/fmt/png/ftblNXT-Team-Men's-Football-Socks",
+      "price": 3200
+    },
+    {
+      "id": 9,
+      "productName": "HRX",
+      "productImage": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/976817/2018/10/4/4db844a2-89c9-46a4-9ccf-c2b8db3306fb1538652963787-HRX-by-Hrithik-Roshan-Active-Men-Set-of-3-Ankle-Length-Socks-1.jpg",
+      "price": 1243,
+      "discount": "4%",
+      "type": "new"
+    }],
+    "watches": [
+      {
+        "id": 1,
+        "productName": "Sonata",
+        "productImage": "https://cdn4.ethoswatches.com/the-watch-guide/wp-content/uploads/2020/04/50-great-watches-buy-2020-21-end-year-luxury-watches-mens-timepiece-iconic-pieces-top-50-best-prices-corum-golden-bridge-SPECIAL-men-4.jpg",
+        "price": 3200,
+        "discount": "10%",
+        "type": "new"
+      },
+      {
+        "id": 2,
+        "productName": "IWC",
+        "productImage": "https://blogs-images.forbes.com/anthonydemarco/files/2019/09/IWC-Top-Gun-PNG.png",
+        "price": 3200
+      },
+      {
+        "id": 3,
+        "productName": "Titan",
+        "productImage": "https://media.gq-magazine.co.uk/photos/5fca181eea319833403830dc/master/w_2121,c_limit/04112020_Watches_14.jpg",
+        "price": 1243,
+        "discount": "4%",
+        "type": "new"
+      },
+      {
+        "id": 4,
+        "productName": "Sonata",
+        "productImage": "https://cdn4.ethoswatches.com/the-watch-guide/wp-content/uploads/2020/04/50-great-watches-buy-2020-21-end-year-luxury-watches-mens-timepiece-iconic-pieces-top-50-best-prices-corum-golden-bridge-SPECIAL-men-4.jpg",
+        "price": 3200,
+        "discount": "10%",
+        "type": "new"
+      },
+      {
+        "id": 5,
+        "productName": "IWC",
+        "productImage": "https://blogs-images.forbes.com/anthonydemarco/files/2019/09/IWC-Top-Gun-PNG.png",
+        "price": 3200
+      },
+      {
+        "id": 6,
+        "productName": "Titan",
+        "productImage": "https://media.gq-magazine.co.uk/photos/5fca181eea319833403830dc/master/w_2121,c_limit/04112020_Watches_14.jpg",
+        "price": 1243,
+        "discount": "4%",
+        "type": "new"
+      },
+      {
+        "id": 7,
+        "productName": "Sonata",
+        "productImage": "https://cdn4.ethoswatches.com/the-watch-guide/wp-content/uploads/2020/04/50-great-watches-buy-2020-21-end-year-luxury-watches-mens-timepiece-iconic-pieces-top-50-best-prices-corum-golden-bridge-SPECIAL-men-4.jpg",
+        "price": 3200,
+        "discount": "10%",
+        "type": "new"
+      },
+      {
+        "id": 8,
+        "productName": "IWC",
+        "productImage": "https://blogs-images.forbes.com/anthonydemarco/files/2019/09/IWC-Top-Gun-PNG.png",
+        "price": 3200
+      },
+      {
+        "id": 9,
+        "productName": "Titan",
+        "productImage": "https://media.gq-magazine.co.uk/photos/5fca181eea319833403830dc/master/w_2121,c_limit/04112020_Watches_14.jpg",
+        "price": 1243,
+        "discount": "4%",
+        "type": "new"
+      }
+    ],
+  "productFamily": [
+    {
+      "familyName": "Shoes",
+      "count": 10
+    },
+    {
+      "familyName": "Shirts",
+      "count": 10
+    },
+    {
+      "familyName": "Trousers",
+      "count": 2
+    },
+    {
+      "familyName": "Socks",
+      "count": 21
+    },
+    {
+      "familyName": "Watches",
+      "count": 12
+    }
+  ],
+  "cart": [
+    {
+      "productName": "Puma",
+      "productImage": "https://htmldemo.hasthemes.com/junno-preview/junno/assets/img/slider/thumb/3.jpg",
+      "price": 123,
+      "id": 1
+    },
+    {
+      "productName": "Asics",
+      "productImage": "https://htmldemo.hasthemes.com/junno-preview/junno/assets/img/slider/thumb/5.jpg",
+      "price": 300,
+      "id": 2
+    },
+    {
+      "productName": "Puma",
+      "productImage": "https://htmldemo.hasthemes.com/junno-preview/junno/assets/img/slider/thumb/3.jpg",
+      "price": 123,
+      "id": 3
+    },
+    {
+      "productName": "Puma",
+      "productImage": "https://htmldemo.hasthemes.com/junno-preview/junno/assets/img/slider/thumb/3.jpg",
+      "price": 123,
+      "id": 4
+    }
+  ]
+}
